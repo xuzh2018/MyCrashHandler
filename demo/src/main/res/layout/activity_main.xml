@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context="com.test.xzh.mytest.MainActivity">
+
+    <Button
+        android:id="@+id/test1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/test1" />
+
+    <Button
+        android:id="@+id/test2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/test2" />
+    <Button
+        android:id="@+id/test3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/test3" />
+    <Button
+        android:id="@+id/test4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/test4" />
+    <Button
+        android:id="@+id/test5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/test5" />
+    <Button
+        android:id="@+id/test6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/test6" />
+    <Button
+        android:id="@+id/test7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/test7" />
+
+
+</LinearLayout>
